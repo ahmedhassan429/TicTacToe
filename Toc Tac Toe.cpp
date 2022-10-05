@@ -6,6 +6,8 @@ struct node
 	int data;
 	node *address;
 };
+
+
 class TikTac
 {
 	private:
